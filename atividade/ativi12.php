@@ -2,9 +2,9 @@
 
 include "conexao.php";
 
-$numero1 = 80;
-$numero2 = 55;
-$numero3 = 75;
+$numero1 = 300;
+$numero2 = 450;
+$numero3 = 550;
 
 $resultado = $numero1 + $numero2 + $numero3;
 

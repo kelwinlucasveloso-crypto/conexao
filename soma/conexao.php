@@ -13,9 +13,5 @@ $banco,
 $porta
 );
 
-if ($conexao->connect_error) {
-die("Erro ao conectar".$conexao->connect_error);
-}
-echo "Conectado com sucesso!";
 
 ?>
